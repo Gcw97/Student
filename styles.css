@@ -24,17 +24,17 @@ img {
 header {
     text-align: center;
     font-size: 3em;
-    color: #373684;
+    color: ;
 }
  
-header h1 {
-    font-style: italic;
+header h2 {
+    font-family: Copperplate, Arial, Verdana;
 }
 
 
 /* Style rules for navigation area */
 nav {
-    background-color: #373684;
+    background-color: ;
 }
  
 nav ul {
@@ -48,24 +48,42 @@ nav ul {
 
 /* Style rules for main content */
 main {
-    padding: 2%;
-    background-color: #e5e9fc;
+    padding: 3%;
+    background-color: ;
     overflow: auto;
-    font-family: Verdana, Arial, sans-serif;
+    font-size: 2em;
+    font-family: Verdana, Arial, Times New Roman;
 }
 
+#Welcome {
+          background-color: ;
+          font-size: 1.5em
+          color: ;
+  
+          
+}
+
+#Pros of Cryptocurrency {
+                    background-color: ;
+                    color:; 
+                    font-size: 1.5em
+  
+} 
+
+.action  {
+  font-style: italic;
+  text-decoration: none;
+  color: #ff3300;
+  
 
 /* Style rules for footer content */
 footer {
     text-align: center;
-    font-size: 0.65em;
+    font-size: 0.5em;
     clear: left;  
 }
  
-footer a {
-    color: #4645a8;
-    text-decoration: none;
-}
+
 
   
    
