@@ -24,7 +24,7 @@ img {
 header {
     text-align: center;
     font-size: 3em;
-    color: ;
+    color: #101a2d;
 }
  
 header h2 {
@@ -34,7 +34,7 @@ header h2 {
 
 /* Style rules for navigation area */
 nav {
-    background-color: ;
+    background-color: #e3eaf8;
 }
  
 nav ul {
@@ -49,23 +49,23 @@ nav ul {
 /* Style rules for main content */
 main {
     padding: 3%;
-    background-color: ;
+    background-color: #00BFFF;
     overflow: auto;
     font-size: 2em;
     font-family: Verdana, Arial, Times New Roman;
 }
 
 #Welcome {
-          background-color: ;
+          background-color: #00BFFF;
           font-size: 1.5em
-          color: ;
+          color:#101a2d;
   
           
 }
 
 #ProsofCryptocurrency {
-                    background-color: ;
-                    color:; 
+                    background-color: #00BFFF;
+                    color:#101a2d; 
                     font-size: 1.5em
   
 } 
