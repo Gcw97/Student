@@ -19,6 +19,19 @@ img {
 
 }
 
+/*Style rules for mobile viewpoint*/
+
+
+/*Style rules to show mobile class and hide tab-desk class*/
+
+.mobile {
+  display: block;
+  
+  }
+
+.tab-desk {
+  display: none;
+}
 
 /* Style rules for header content */
 header {
