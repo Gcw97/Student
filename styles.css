@@ -76,6 +76,9 @@ nav ul {
     text-align: center;
 }
  
+nav li: first-child {
+  border-top: none;
+  }
 
 
 
@@ -112,6 +115,7 @@ main {
   font-style: italic;
   text-decoration: none;
   color: #ff3300;
+  
   
 
 /* Style rules for footer content */
