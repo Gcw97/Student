@@ -26,9 +26,10 @@ img {
 
 .mobile {
   display: block;
-  
+  font-family: 'Newsreader', serif;
   }
 
+/* Hides content on Tablet/Desktop */
 .tab-desk {
   display: none;
 }
@@ -39,6 +40,21 @@ header {
     font-size: 3em;
     color: #101a2d;
 }
+
+.mobile h1{
+  padding: 3%;
+  text-align: center;
+}
+.mobile h2{
+  padding: 3%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  
+.mobile h3{
+  padding: 3%;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
  
 header h2 {
     font-family: Copperplate, Arial, Verdana;
@@ -48,6 +64,10 @@ header h2 {
 /* Style rules for navigation area */
 nav {
     background-color: #e3eaf8;
+    border-radius: 25px;
+    padding: 20px;
+    width: 200px;
+    height: 150px; 
 }
  
 nav ul {
@@ -70,6 +90,10 @@ main {
 
 #Welcome {
           background-color: #00BFFF;
+           border-radius: 25px;
+           padding: 20px;
+           width: 200px;
+           height: 150px; 
           font-size: 1.5em
           color:#101a2d;
   
