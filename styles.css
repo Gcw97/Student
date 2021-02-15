@@ -61,7 +61,7 @@ header h2 {
 }
 
 
-/* Style rules for navigation area */
+/* Style rules for navigation area (rounded corners added) */
 nav {
     background-color: #e3eaf8;
     border-radius: 25px;
@@ -88,6 +88,7 @@ main {
     font-family: Verdana, Arial, Times New Roman;
 }
 
+  /* (rounded corners added) with welcome content on index */
 #Welcome {
           background-color: #00BFFF;
            border-radius: 25px;
